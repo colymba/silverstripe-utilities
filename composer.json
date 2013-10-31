@@ -1,0 +1,19 @@
+{
+	"name": "colymba/silverstripe-utilities",
+	"type": "silverstripe-module",
+	"description": " random collection of handy scripts/utilities for SilverStripe.",
+	"homepage": "https://github.com/colymba/silverstripe-utilities",
+	"keywords": ["silverstripe", "tasks", "clear images"],
+	"license": "BSD Simplified",
+	"authors": [{
+		"name": "Thierry Francois",
+		"homepage": "http://colymba.com"
+  }],
+  "repositories": [{
+    "type": "vcs",
+    "url": "git@github.com:colymba/silverstripe-utilities.git"
+  }],
+	"require": {
+    "silverstripe/framework": "~3.1"
+	}
+}
